@@ -1,0 +1,10 @@
+9
+rat,rat_chr
+wil,wil_chr
+egm,egm_chr
+sku,sku_chr
+fgp,fgp
+eae,eae
+grl,grl
+fis,fis_chr
+pir,pir_chr
