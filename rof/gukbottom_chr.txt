@@ -1,0 +1,7 @@
+6
+fud,fud_chr
+mtr,mtr
+tar,tar
+btn,btn
+fsk,fsk_chr
+fgh,fgh_chr
