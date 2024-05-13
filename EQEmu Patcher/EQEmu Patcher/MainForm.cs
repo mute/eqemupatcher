@@ -323,7 +323,7 @@ namespace EQEmu_Patcher
                         splashLogo.Image = Properties.Resources.brokenmirror;
                         break;
                     default:
-                        currentVersion = VersionTypes.Unknown;
+                        currentVersion = VersionTypes.Rain_Of_Fear_2;
                         break;
                 }
                 if (currentVersion == VersionTypes.Unknown)
