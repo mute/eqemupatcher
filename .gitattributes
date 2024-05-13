@@ -2,6 +2,8 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text eol=crlf
+*.eqg binary
+*.mp3 binary
 *.txt binary
 *.eff binary
 *.xml binary
@@ -9,6 +11,17 @@
 *.s3d binary
 *.txc binary
 *.xmi binary
+*.tff binary
+*.ttf binary
+*.zon binary
+*.exe binary
+*.tga binary
+*.jpg binary
+*.dds binary
+*.cur binary
+*.emt binary
+*.ini binary
+*.xml binary
 
 ###############################################################################
 # Set default behavior for command prompt diff.
