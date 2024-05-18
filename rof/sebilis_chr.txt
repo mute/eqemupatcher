@@ -1,0 +1,10 @@
+10
+bkd,bkd
+she,she
+nmw,ponightmare_chr
+dra,dra_chr
+cst,cst
+onm,onm
+myg,myg
+sol,soltemple_chr
+sdc,sdc

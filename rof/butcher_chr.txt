@@ -1,0 +1,12 @@
+11
+mud,mud
+tar,tar
+dke,dke
+btn,btn
+snk,snk
+shi,shi
+mmf,mmf_chr
+mmm,mmm_chr
+gpm,gpm_chr
+mmy,mmy_chr
+onm,onm
